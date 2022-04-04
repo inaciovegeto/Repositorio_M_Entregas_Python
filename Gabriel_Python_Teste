@@ -1,0 +1,60 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNVvk/YYC/Alolfj968Egox",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/inaciovegeto/Repositorio_M_Entregas_Python/blob/main/Gabriel_Python_Teste\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "xyYM0uQXLEaL",
+        "outputId": "e3b72178-ff85-48ce-acd3-9464f5fe9426"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "CODIGO TESTE\n",
+            "Toda variável precisa ter um nome para que seu valor possa ser utilizador posteriormente.\n",
+            "By: Gabriel Inácio\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"CODIGO TESTE\")\n",
+        "\n",
+        "print(\"Toda variável precisa ter um nome para que seu valor possa ser utilizador posteriormente.\")\n",
+        "\n",
+        "print(\"By: Gabriel Inácio\")"
+      ]
+    }
+  ]
+}
